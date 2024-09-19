@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Atak_ProductViewProducerApp": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

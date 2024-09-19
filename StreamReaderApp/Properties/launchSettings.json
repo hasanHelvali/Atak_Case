@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StreamReaderApp": {
+      "commandName": "Project"
+    },
+    //"Docker": {
+    //  "commandName": "Docker"
+    //}
+  }
+}

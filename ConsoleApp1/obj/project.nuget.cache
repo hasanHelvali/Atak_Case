@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ma7gLN4YpBeheIRfyBIrUlcTR1Pr6hgpbIgRd80zqgpa0iHi5Eye1aMmwgkkxpgJ8/AI4JFiS0nQYGOlk0DmlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hasan_Helvali\\Desktop\\Atak_Case\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hasan_Helvali\\.nuget\\packages\\confluent.kafka\\2.5.3\\confluent.kafka.2.5.3.nupkg.sha512",
+    "C:\\Users\\Hasan_Helvali\\.nuget\\packages\\librdkafka.redist\\2.5.3\\librdkafka.redist.2.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
